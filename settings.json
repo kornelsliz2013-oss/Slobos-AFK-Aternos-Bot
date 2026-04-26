@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "gendi",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "oneblockmcfree.aternos.me",
     "port": 21556,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
